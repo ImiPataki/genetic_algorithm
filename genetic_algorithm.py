@@ -35,9 +35,9 @@ import random
 # Setup optimal string and GA input variables.
 #
 
-OPTIMAL     = "Hello, World"
+OPTIMAL     = "Let's go!"
 DNA_SIZE    = len(OPTIMAL)
-POP_SIZE    = 20
+POP_SIZE    = 500
 GENERATIONS = 5000
 
 #
